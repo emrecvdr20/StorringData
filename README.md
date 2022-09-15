@@ -1,0 +1,2 @@
+# StorringData
+Datalar üzerinde işlemler
